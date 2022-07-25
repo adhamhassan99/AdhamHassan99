@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adham Hassan</h1>
 <h3 align="center">A Passionate Software Developer</h3>
 
-<p align="left"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=adhamhassan99" alt="adhamhassan99" /></a> </p>
+<p align="left"> <a href="https://github.com/adhamhassan99/AdhamHassan99/blob/main/README.md"><img src="https://github-profile-trophy.vercel.app/?username=adhamhassan99" alt="adhamhassan99" /></a> </p>
 
 - 🔭 I’m currently working on **A Django Webb App**
 
