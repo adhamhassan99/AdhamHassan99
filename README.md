@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **A Django Webb App**
 
-- 🌱 I’m currently learning **AWS Solutions Architect, Angular**
+- 🌱 I’m currently learning **AWS Solutions Architect, React.js, React Native**
 
 - 💬 Ask me about **Django, Backend, Python**
 
