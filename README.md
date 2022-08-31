@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Adham Hassan</h1>
 <h3 align="center">A Passionate Software Developer</h3>
 
-- 🔭 I’m currently working on **A Django Webb App**
+- 🔭 I’m currently working in **Ejada Systems Cairo, Egypt** as a Junior Software Engineer
 
 - 🌱 I’m currently learning **AWS Solutions Architect, React.js, React Native**
 
-- 💬 Ask me about **Django, Backend, Python**
+- 💬 Ask me about **Django, Backend, Python, HTML, CSS, JavaScript, React.js**
 
 - 📫 How to reach me **Adham.Hassan7499@gmail.com**
 
