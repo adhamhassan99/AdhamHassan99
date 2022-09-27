@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adham Hassan</h1>
-<h3 align="center">A Passionate Software Developer</h3>
+<h3 align="center">I am a Software Developer</h3>
 
 - 🔭 I’m currently working in **Ejada Systems Cairo, Egypt** as a Junior Software Engineer
 
