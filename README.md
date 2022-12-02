@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in **Ejada Systems Cairo, Egypt** as a Junior Software Engineer
 
-- 🌱 I’m currently learning **AWS Solutions Architect, React.js, React Native**
+- 🌱 I’m currently working on a **React Native Project**
 
 - 💬 Ask me about **Django, Backend, Python, HTML, CSS, JavaScript, React.js**
 
