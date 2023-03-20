@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working on a **React Native Project**
 
-- 💬 Ask me about **Django, Backend, Python, HTML, CSS, JavaScript, React.js**
+- 💬 Ask me about **React Native, React.js, TypeScript, Django, Python, HTML, CSS, JavaScript **
 
 - 📫 How to reach me **Adham.Hassan7499@gmail.com**
 
